@@ -1,333 +1,353 @@
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗  █████╗      ██╗██╗   ██╗    ██████╗                   ║
-║   ██╔══██╗██╔══██╗     ██║██║   ██║    ██╔══██╗                  ║
-║   ██████╔╝███████║     ██║██║   ██║    ██████╔╝                  ║
-║   ██╔══██╗██╔══██║██   ██║██║   ██║    ██╔═══╝                   ║
-║   ██║  ██║██║  ██║╚█████╔╝╚██████╔╝    ██║                       ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝     ╚═╝                       ║
-║                                                                  ║
-║   SDE  ·  Full Stack  ·  AI                                      ║
-║   Bengaluru  ·  Pune  ·  Mumbai  ·  Everywhere                   ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  STATUS    ONLINE · open to work                                 ║
-║  LOOKING   entry-level roles & internships (PPO preferred)       ║
-║  ROLES     SDE-1 · Full Stack · Backend · Frontend · AI/ML       ║
-║  BUILDS    real-time systems · reliable backends · LLM products  ║
-║  PROOF     52/52 tests · 48/48 tests · 6.49 jobs/sec · live demo ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Raju%20P&fontSize=84&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Real-Time%20Systems%20%C2%B7%20LLM%20Apps&descSize=22&descAlignY=58" width="100%" alt="Raju P - Full Stack Developer" />
 
-**[01 Brief](#brief)** · **[02 Paths](#paths)** · **[03 Scoreboard](#scoreboard)** · **[04 Builds](#builds)** · **[05 Puzzle](#puzzle)** · **[06 Stack](#stack)** · **[07 Timeline](#timeline)** · **[08 Honest notes](#honest)** · **[09 Talk](#talk)**
+<a href="https://github.com/Raju-CS8">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=Building+real-time+AI+workspaces;52%2F52+Jest+tests+passing+on+NeuralIQ;Concurrent+workers+%7C+FOR+UPDATE+SKIP+LOCKED;MCA+%40+CHRIST+%7C+Bengaluru;Open+to+internships+%26+fresher+roles" alt="typing animation" />
+</a>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20NeuralIQ-Live%20Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://nerual-ai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raju-p-08737a2a5)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajupalani811@gmail.com)
+![Open to work](https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-22c55e?style=for-the-badge)
+
+<sub>
+<a href="#scan">Scan</a> &nbsp;·&nbsp; <a href="#whoami">Whoami</a> &nbsp;·&nbsp; <a href="#universe">Tech Universe</a> &nbsp;·&nbsp; <a href="#blueprint">Blueprint</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#journey">Journey</a> &nbsp;·&nbsp; <a href="#signal">GitHub Signal</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
+</sub>
 
 </div>
 
-> [!TIP]
-> **Hiring?** Skip to the [30-second brief](#brief). **Engineer?** Go straight to the [puzzle](#puzzle). **Curious?** Pick a [path](#paths) and I'll show you the version of this page that fits.
+<br/>
+
+<a id="scan"></a>
+## ⚡ The 30-Second Scan
+
+> *Short on time? Here's everything a recruiter needs, up front.*
+
+<div align="center">
+
+| 🎯 Target | 🧰 Core Stack | 📈 Proof | 📍 Where |
+|:---:|:---:|:---:|:---:|
+| Full Stack · SDE-1 · Backend · Frontend/React · Python · AI/ML | React · Node.js · Express · FastAPI · MongoDB · PostgreSQL | **52/52** + **48/48** automated tests passing across two projects | Bengaluru · Pune · Mumbai · Remote |
+
+![tests](https://img.shields.io/badge/NeuralIQ-52%2F52%20Jest%20tests-4f46e5?style=flat-square&logo=jest&logoColor=white)
+![tests](https://img.shields.io/badge/JobFlow-48%2F48%20Pytest%20tests-0ea5e9?style=flat-square&logo=pytest&logoColor=white)
+![perf](https://img.shields.io/badge/JobFlow-6.49%20jobs%2Fsec%20%40%203%20workers-10b981?style=flat-square&logo=postgresql&logoColor=white)
+![interns](https://img.shields.io/badge/Internships-2%20AI%2FML-f59e0b?style=flat-square&logo=python&logoColor=white)
+![auth](https://img.shields.io/badge/Auth-JWT%20%C2%B7%20OAuth%202.0%20%C2%B7%20RBAC-ef4444?style=flat-square&logo=auth0&logoColor=white)
+
+</div>
 
 <br/>
 
-<a id="brief"></a>
-## 01 · The 30-second brief
+<a id="whoami"></a>
+## 🧬 `whoami`
 
-| | |
+```console
+raju@github:~$ whoami
+Raju P  |  Full Stack Developer  |  Bengaluru, India
+
+raju@github:~$ cat education.txt
+MCA                 CHRIST (Deemed to be University), Bengaluru   2025-2027   CGPA 7.5/10
+B.Sc. Computer Sci. Don Bosco College (Co-Ed), Tirupattur        2022-2025   CGPA 7.1/10
+
+raju@github:~$ cat principles.txt
+[x] Ship it, then test it until the numbers say it works
+[x] Secure by default: auth, RBAC, validation, rate limiting
+[x] Reliability beats cleverness: retries, fallbacks, idempotency
+[x] Measure everything: tests, benchmarks, CI
+
+raju@github:~$ git status
+On branch main
+Status: open to work (internships, fresher roles, PPO preferred)  [ready]
+```
+
+<br/>
+
+<a id="universe"></a>
+## 🌌 Tech Universe
+
+```mermaid
+mindmap
+  root((Raju P))
+    Frontend
+      React and Hooks
+      TypeScript · JavaScript
+      Tailwind · Material UI
+      HTML5 · CSS3
+    Backend
+      Node.js · Express
+      FastAPI
+      REST APIs
+      WebSockets · Socket.IO
+    Data
+      MongoDB
+      PostgreSQL
+      MySQL · SQLAlchemy
+    Quality and Delivery
+      Jest · Supertest · Pytest
+      GitHub Actions CI/CD
+      Vercel · Render · AWS EC2/S3
+    Security
+      JWT · OAuth 2.0
+      RBAC
+      Helmet · CORS · Rate limiting
+    AI and ML
+      Groq API
+      XGBoost
+      Data cleaning
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui,nodejs,express,fastapi,python,mongodb,postgres,mysql,git,github,githubactions,jest,vercel,aws&perline=10&theme=dark" alt="skills" />
+
+<sub>🔭 **Levelling up (coursework labs):** Docker · Kubernetes · PyTorch · Keras</sub>
+
+</div>
+
+<details>
+<summary><b>🔍 Click to expand the full skill sheet</b></summary>
+<br/>
+
+| Area | Skills |
 |---|---|
-| **Who** | Raju P, MCA student at CHRIST (Deemed to be University), Bengaluru · 2025 to 2027 · CGPA 7.5/10 |
-| **Looking for** | Entry-level roles and internships, PPO preferred: SDE-1, Full Stack, Backend, Frontend/React, Python, AI/ML |
-| **Where** | Bengaluru · Pune · Mumbai · remote, work-from-anywhere or global |
-| **Core stack** | React · Node.js / Express · FastAPI · MongoDB · PostgreSQL · TypeScript · Python |
-| **Proof** | 52/52 Jest tests on NeuralIQ[^1] · 48/48 tests with CI on JobFlow[^2] · 6.49 jobs/sec benchmark · a [live demo](https://nerual-ai.vercel.app/) you can open right now |
-| **Experience** | 2 AI/ML internships: Infosys Springboard (2025) and Acmegrade (2023 to 2024) |
-| **Reach me** | [rajupalani811@gmail.com](mailto:rajupalani811@gmail.com) · [LinkedIn](https://linkedin.com/in/raju-p-08737a2a5) |
-
-<br/>
-
-<a id="paths"></a>
-## 02 · Pick your path
-
-Same person, three different pages. Open the one that sounds like you.
-
-<details>
-<summary><b>👔 I'm screening candidates</b></summary>
-
-<br/>
-
-You have a minute, so here is the shortest honest version:
-
-- **Fit:** fresher (MCA 2025 to 2027) aimed at SDE-1, Full Stack, Backend and AI/ML roles, with two internships and three tested projects behind it.
-- **Strongest evidence:** the [scoreboard](#scoreboard). Test counts, a throughput number and a live product, not adjectives.
-- **Keywords you may be searching for:** React.js, Node.js, Express.js, REST APIs, FastAPI, MongoDB, PostgreSQL, TypeScript, Python, JWT, OAuth 2.0, RBAC, Jest, Pytest, GitHub Actions, Vercel, Render, AWS. The full list is in the [stack](#stack).
-- **Next step:** [email me](mailto:rajupalani811@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/raju-p-08737a2a5).
-
-</details>
-
-<details>
-<summary><b>🧑‍💻 I'm an engineer</b></summary>
-
-<br/>
-
-Skip the marketing. Things I'm happy to go deep on:
-
-- Claiming jobs with `FOR UPDATE SKIP LOCKED` so concurrent workers never double-process, plus retries and idempotent processing ([try the puzzle](#puzzle))
-- Real-time collaborative editing with Yjs and Socket.IO, and how it sits next to a REST API
-- Chunk-based retrieval so an LLM answers from the user's own PDF, DOCX or TXT
-- Making flaky third-party APIs survivable: timeouts, multi-endpoint fallbacks for Overpass and Nominatim, structured errors
-- Backend-enforced RBAC, and why the client is never the source of truth
-
-Start with the [architecture diagrams](#builds).
-
-</details>
-
-<details>
-<summary><b>🚀 I'm a founder or hiring manager</b></summary>
-
-<br/>
-
-What a fresher who ships can do for a small team:
-
-- **Real-time features:** collaborative editing, live updates, workspaces with roles
-- **LLM features that use your data:** upload a document, ask questions, get answers grounded in it
-- **Background work that doesn't fall over:** queues, workers, retries, failure recovery
-- **Secure APIs fast:** JWT and OAuth 2.0 auth, RBAC, rate limiting, validation, tests and CI from the first commit
-- **ML prototype to working app:** I've taken a model from preprocessing to a deployed Streamlit app (GlucoSense)
-
-I'm looking for a team where I can own a real piece of the product. PPO preferred.
+| **Frontend** | React.js, React Hooks, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Material UI |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, API integration, FastAPI, WebSockets, Socket.IO |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQLAlchemy |
+| **Languages** | JavaScript, TypeScript, Python, SQL, OOP |
+| **Testing & CI/CD** | Git, GitHub, GitHub Actions, Jest, Supertest, Pytest |
+| **Deploy & Cloud** | Vercel, Render, AWS (EC2, S3) |
+| **Security & Auth** | JWT, OAuth 2.0, RBAC, input validation, rate limiting, Helmet, CORS |
+| **AI & ML** | Machine Learning, XGBoost, Data Cleaning, Groq API (LLM apps) |
 
 </details>
 
 <br/>
 
-<a id="scoreboard"></a>
-## 03 · Scoreboard
+<a id="blueprint"></a>
+## 🏗️ How I Build: My Blueprint
 
-```text
- TESTS
- NeuralIQ    jest + supertest   ████████████████████  52 / 52   8 suites
- JobFlow     automated tests    ████████████████████  48 / 48   GitHub Actions CI
-
- THROUGHPUT
- JobFlow     3 concurrent workers      200 jobs  >>  6.49 jobs/sec
-
- SCORING
- AI Lead Engine   deterministic opportunity score   0 ─────────────── 100
-
- SHIPPED
- NeuralIQ    live on Vercel   https://nerual-ai.vercel.app/
-```
-
-<br/>
-
-<a id="builds"></a>
-## 04 · What I've built
-
-### 🧠 NeuralIQ · real-time collaborative AI workspace
-
-People edit documents together in real time (Yjs), upload PDF, DOCX and TXT files, and ask an LLM questions that are answered from the file's own content using chunk-based retrieval on the Groq API. Auth is JWT plus Google OAuth 2.0, with RBAC enforced on the backend, rate limiting and admin authorization.
-
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Yjs` `Groq API` `JWT` `OAuth 2.0` `Jest` `Supertest`
-
-**[Open the live demo →](https://nerual-ai.vercel.app/)**
-
-<details>
-<summary><b>See the architecture</b></summary>
+*Every project I ship follows the same shape: a typed client, a validated API, durable data, guarded auth, tested and deployed through CI.*
 
 ```mermaid
 flowchart LR
-    A[React client] <-->|Socket.IO + Yjs| B[Express server]
-    A -->|REST + JWT / OAuth| B
-    B --> C[(MongoDB)]
-    B -->|upload| D[PDF / DOCX / TXT parser]
-    D -->|chunks| E[Context retrieval]
-    E -->|prompt| F[Groq LLM]
-    F -->|answer| B
+    U(["👤 User"]) --> C["🖥️ Client<br/>React · TS · Tailwind · MUI"]
+    C -- "REST / JSON" --> A["⚙️ API layer<br/>Node · Express · FastAPI"]
+    C -. "WebSocket · Yjs" .-> RT["⚡ Real-time<br/>Socket.IO"]
+    RT -.-> A
+    A --> AU["🔐 Auth<br/>JWT · OAuth 2.0 · RBAC"]
+    A --> DB[("🗄️ Data<br/>MongoDB · PostgreSQL")]
+    A -- "context chunks" --> L["🧠 LLM<br/>Groq API"]
+    T["🧪 Jest · Supertest · Pytest"] --> CI["🔁 GitHub Actions"] --> D["🚀 Vercel · Render · AWS"]
+    D -.-> C
+
+    classDef client fill:#0e7490,stroke:#22d3ee,color:#fff
+    classDef api fill:#4338ca,stroke:#818cf8,color:#fff
+    classDef data fill:#15803d,stroke:#4ade80,color:#fff
+    classDef sec fill:#c2410c,stroke:#fdba74,color:#fff
+    classDef ai fill:#a21caf,stroke:#e879f9,color:#fff
+    classDef ship fill:#475569,stroke:#cbd5e1,color:#fff
+    class C client
+    class A,RT api
+    class DB data
+    class AU sec
+    class L ai
+    class T,CI,D ship
 ```
 
-</details>
+<br/>
 
-### ⚙️ JobFlow · concurrent background job processing
+<a id="projects"></a>
+## 🚀 Featured Projects
 
-Priority-based scheduling, concurrent workers that claim jobs with `FOR UPDATE SKIP LOCKED`, automatic retries, persistent execution tracking, failure recovery and idempotent processing. Benchmarked at 200 jobs and 6.49 jobs/sec with 3 workers.
+*Tap a project to open its engineering breakdown.*
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pytest` `GitHub Actions`
+<details open>
+<summary><b>🧠 NeuralIQ: Real-Time Collaborative AI Workspace</b> &nbsp;·&nbsp; <code>52/52 tests</code></summary>
+<br/>
 
-**[Read the code →](https://github.com/Raju-CS8/JobFlow)**
+[![Live](https://img.shields.io/badge/%F0%9F%94%97%20Open%20Live%20App-6366f1?style=for-the-badge)](https://nerual-ai.vercel.app/)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
 
-<details>
-<summary><b>See the architecture</b></summary>
+A full-stack collaborative AI workspace with **real-time document editing (Yjs)**, workspace collaboration, file uploads, and **chunk-based, context-aware LLM answers** over PDF, DOCX and TXT files via the Groq API.
+
+- 🔐 JWT authentication, **Google OAuth 2.0**, backend-enforced **RBAC**, rate limiting and admin authorization
+- ✅ **52/52 Jest tests across 8 suites**, including 12 Supertest API tests, covering auth, workspace, retrieval, authorization, payment and usage workflows
 
 ```mermaid
 flowchart LR
-    API[FastAPI REST API] -->|validate + enqueue| DB[(PostgreSQL)]
-    DB -->|SKIP LOCKED claim| W1[Worker 1]
-    DB -->|SKIP LOCKED claim| W2[Worker 2]
-    DB -->|SKIP LOCKED claim| W3[Worker 3]
-    W1 & W2 & W3 -->|status, attempts, result| DB
-    W1 & W2 & W3 -.->|on failure| R{Retry?}
-    R -->|yes| DB
-    R -->|no| F[Failed, recorded]
+    F["📄 PDF · DOCX · TXT upload"] --> CH["✂️ Chunking"] --> ST["🗂️ Stored chunks"]
+    Q["💬 User question"] --> RE["🔎 Retrieve relevant chunks"]
+    ST --> RE --> P["🧩 Context-aware prompt"] --> G["🧠 Groq LLM"] --> AN["✅ Answer"]
+    ED["✍️ Collaborative editor"] <-- "Yjs sync" --> SO["⚡ Socket.IO"]
 ```
 
 </details>
 
-### 🎯 AI Lead Intelligence Engine · B2B lead scoring
+<details>
+<summary><b>⚙️ JobFlow: Concurrent Background Job Processing Platform</b> &nbsp;·&nbsp; <code>6.49 jobs/sec</code></summary>
+<br/>
 
-Finds businesses through OpenStreetMap/Overpass, normalizes and enriches the listings, detects digital-presence gaps, and gives each lead a deterministic 0 to 100 opportunity score. Reliability work includes request validation, timeout handling, multi-endpoint Overpass and Nominatim fallbacks, structured errors, logging, Helmet, CORS and rate limiting.
+[![GitHub](https://img.shields.io/badge/%F0%9F%93%82%20View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Raju-CS8/JobFlow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-`React` `TypeScript` `Node.js` `Express` `OpenStreetMap` `Overpass API` `Nominatim`
+A FastAPI/PostgreSQL job platform with **priority-based scheduling**, concurrent workers, **`FOR UPDATE SKIP LOCKED`** job claiming, automatic retries, persistent execution tracking and failure recovery.
 
-**[Read the code →](https://github.com/Raju-CS8/AI-Lead-Engine---Automated-Lead-Generation-Filtering-System)**
+- 🔁 Idempotent job processing behind validated REST APIs
+- 📊 Benchmarked **200 jobs at 6.49 jobs/sec with 3 workers**
+- ✅ **48/48 automated tests**, concurrent-worker testing, GitHub Actions CI
+
+```mermaid
+sequenceDiagram
+    participant API as FastAPI
+    participant DB as PostgreSQL
+    participant W1 as Worker 1
+    participant W2 as Worker 2
+    API->>DB: INSERT job with priority
+    par Workers claim jobs
+        W1->>DB: SELECT FOR UPDATE SKIP LOCKED
+        W2->>DB: SELECT FOR UPDATE SKIP LOCKED
+    end
+    DB-->>W1: Job A
+    DB-->>W2: Job B, Job A row skipped
+    W1->>DB: Mark done or schedule retry
+    W2->>DB: Mark done or schedule retry
+```
+
+</details>
 
 <details>
-<summary><b>See the pipeline</b></summary>
+<summary><b>🎯 AI Lead Intelligence Engine: B2B Lead Scoring Platform</b> &nbsp;·&nbsp; <code>0-100 scoring</code></summary>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/%F0%9F%93%82%20View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Raju-CS8/AI-Lead-Engine---Automated-Lead-Generation-Filtering-System)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+
+A TypeScript/Express and React platform that discovers businesses through **OpenStreetMap/Overpass**, normalizes and enriches listings, detects digital-presence gaps, and assigns **deterministic 0-100 opportunity scores**.
+
+- 🛡️ Reliability: request validation, timeout handling, multi-endpoint Overpass and Nominatim geocoding fallbacks, structured errors, logging
+- 🔒 Hardening: Helmet, CORS controls, rate limiting
 
 ```mermaid
 flowchart LR
-    U[Search query] --> G[Geocode: Nominatim + fallbacks]
-    G --> O[Discover: Overpass + fallbacks]
-    O --> N[Normalize + enrich]
-    N --> D[Detect digital-presence gaps]
-    D --> S[Score 0 to 100]
-    S --> UI[React dashboard]
+    GE["📍 Nominatim geocoding<br/>with fallbacks"] --> O["🗺️ OpenStreetMap / Overpass"]
+    O --> N["🧹 Normalize + enrich"] --> D["🔍 Detect digital-presence gaps"] --> S["📊 Deterministic 0-100 score"] --> UI["🖥️ React UI"]
 ```
 
 </details>
 
 <br/>
 
-<a id="puzzle"></a>
-## 05 · Quick puzzle: the double-booked job
-
-Two workers poll the same `jobs` table. Each one runs this:
-
-```sql
-SELECT id FROM jobs WHERE status = 'queued' LIMIT 1;
--- ...then, in a separate statement:
-UPDATE jobs SET status = 'running' WHERE id = :id;
-```
-
-**What goes wrong when both workers run it at the same moment?** Think about it, then open the answer.
-
-<details>
-<summary><b>Show the answer</b></summary>
-
-<br/>
-
-Both workers can read the same row before either one updates it, so the same job runs twice. Under load this shows up as duplicate emails, double charges and flaky tests.
-
-The fix is to claim the job in a single atomic statement and let other workers skip rows that are already locked:
-
-```sql
-WITH next AS (
-  SELECT id FROM jobs
-  WHERE status = 'queued'
-  ORDER BY priority DESC, created_at
-  FOR UPDATE SKIP LOCKED
-  LIMIT 1
-)
-UPDATE jobs
-SET status = 'running'
-FROM next
-WHERE jobs.id = next.id
-RETURNING jobs.*;
-```
-
-That is the pattern behind how JobFlow's workers claim work. Retries and idempotent processing cover the rest: a crashed worker must not leave a job stuck, and a re-run must not repeat its side effects.
-
-</details>
-
-<br/>
-
-<a id="stack"></a>
-## 06 · Stack
-
-```yaml
-frontend:   [React.js, React Hooks, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Material UI]
-backend:    [Node.js, Express.js, FastAPI, REST APIs, API integration, WebSockets, Socket.IO]
-realtime:   [Socket.IO, WebSockets, Yjs]
-databases:  [MongoDB, PostgreSQL, MySQL, SQLAlchemy, SQL]
-languages:  [JavaScript, TypeScript, Python, SQL, OOP]
-testing_ci: [Jest, Supertest, Pytest, Git, GitHub, GitHub Actions]
-cloud:      [Vercel, Render, AWS EC2, AWS S3]
-security:   [JWT, OAuth 2.0, RBAC, input validation, rate limiting, Helmet, CORS]
-ai_ml:      [Groq API, LLM apps, chunk-based retrieval, Machine Learning, XGBoost, Streamlit, Data Cleaning, Deep Learning]
-```
-
-**Across my projects, the checklist I hold myself to:**
-
-- [x] Automated tests, not just manual clicking
-- [x] CI on GitHub Actions
-- [x] Input validation on every API
-- [x] Auth and RBAC enforced on the server
-- [x] Rate limiting, Helmet and CORS controls
-- [x] Timeouts, fallbacks and structured errors for anything external
-- [x] Logging, so failures can be explained
-
-<br/>
-
-<a id="timeline"></a>
-## 07 · My timeline, as a git log
+<a id="journey"></a>
+## 🧭 Journey
 
 ```mermaid
-gitGraph
-    commit id: "2022 - B.Sc. CS begins"
-    commit id: "Dec 2023 - AI/ML intern, Acmegrade"
-    commit id: "Feb 2025 - AI/ML intern, Infosys Springboard"
-    branch mca
-    checkout mca
-    commit id: "2025 - MCA at CHRIST begins"
-    commit id: "NeuralIQ - 52 of 52 tests"
-    commit id: "JobFlow - 48 of 48 tests"
-    commit id: "AI Lead Engine - 0 to 100 scoring"
-    commit id: "NOW - open to work" type: HIGHLIGHT
+timeline
+    title From B.Sc. to building production-style systems
+    2022 : B.Sc. Computer Science begins at Don Bosco College
+    Dec 2023 : AI/ML Intern at Acmegrade : MNIST handwritten digit classifier
+    Feb 2025 : AI/ML Intern at Infosys Springboard : GlucoSense diabetes-risk app with XGBoost and Streamlit
+    2025 : Starts MCA at CHRIST, Bengaluru : B.Sc. completed
+    Now : NeuralIQ · JobFlow · AI Lead Engine : Open to work
 ```
 
-| Role / Degree | Where | When | What |
+<details>
+<summary><b>💼 Internship details</b></summary>
+<br/>
+
+| Role | Company | When | What I built |
 |---|---|---|---|
-| **AI/ML Intern** | Infosys Springboard | Feb to Apr 2025 | **GlucoSense**: diabetes-risk prediction (Python, XGBoost, Streamlit) with preprocessing, training, evaluation and deployment |
-| **AI/ML Intern** | Acmegrade Pvt Ltd | Dec 2023 to Jan 2024 | Handwritten digit classifier on MNIST with a deep-learning workflow and held-out evaluation |
-| **MCA** | CHRIST (Deemed to be University), Bengaluru | 2025 to 2027 | CGPA 7.5/10 |
-| **B.Sc. Computer Science** | Don Bosco College (Co-Ed), Tirupattur | 2022 to 2025 | CGPA 7.1/10 |
-
-**Certifications:** Gemini for End-to-End SDLC (Google Cloud Skills Boost) · Introduction to Large Language Models (Infosys Springboard) · Artificial Intelligence (Infosys Springboard) · Forward Program (McKinsey.org)
-
-<br/>
-
-<a id="honest"></a>
-## 08 · Honest notes
-
-- **I'm a fresher.** My evidence is shipped projects with tests and numbers, not years on a payroll.
-- **The numbers on this page come from my own test runs and benchmark.** Where a repo is linked, you can go and check.
-- **My internship work was ML** (GlucoSense, MNIST). I'm now applying across Full Stack, Backend and AI/ML, and my recent projects are all full-stack and backend.
-- **If a role needs something I haven't done yet, I'll say so plainly** and tell you how I'd close the gap.
-
-<br/>
-
-<a id="talk"></a>
-## 09 · Let's talk
-
-| | |
-|---|---|
-| 📧 **Email** | [rajupalani811@gmail.com](mailto:rajupalani811@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/raju-p-08737a2a5](https://linkedin.com/in/raju-p-08737a2a5) |
-| 🧪 **Try something I built** | [NeuralIQ live demo](https://nerual-ai.vercel.app/) |
-| 📍 **Where I can work** | Bengaluru · Pune · Mumbai · Everywhere |
-
-<details>
-<summary>🥚 You scrolled all the way down</summary>
-
-<br/>
-
-Put `SKIP LOCKED` in the subject line of your email. I'll know you read the whole page, and I'll reply to you first.
+| **AI/ML Intern** | Infosys Springboard | Feb - Apr 2025 | **GlucoSense**, a Python + XGBoost + Streamlit app predicting diabetes risk from structured health data: preprocessing, training, evaluation, deployment |
+| **AI/ML Intern** | Acmegrade Pvt Ltd | Dec 2023 - Jan 2024 | Handwritten digit classifier on MNIST: preprocessing, deep-learning workflow, evaluation on held-out test data |
 
 </details>
 
-```text
-$ exit 0    # thanks for reading
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br/>
+
+- Gemini for End-to-End SDLC, *Google Cloud Skills Boost*
+- Introduction to Large Language Models, *Infosys Springboard*
+- Artificial Intelligence, *Infosys Springboard*
+- Forward Program, *McKinsey.org*
+
+</details>
+
+<br/>
+
+<a id="signal"></a>
+## 📡 GitHub Signal
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raju-CS8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Raju-CS8&show_icons=true&theme=default&hide_border=true&rank_icon=github">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Raju-CS8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-CS8&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-CS8&layout=compact&theme=default&hide_border=true">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-CS8&layout=compact&theme=tokyonight&hide_border=true" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raju-CS8&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution activity graph" />
+
+</div>
+
+<br/>
+
+<a id="contact"></a>
+## 🤝 Let's Build Something
+
+**Hiring for a fresher / intern role?** Here's the fast path:
+
+| | |
+|---|---|
+| 🎯 **Looking for** | Entry-level roles & internships (PPO preferred): Full Stack, SDE-1, Backend, Frontend/React, Python, AI/ML |
+| 📍 **Locations** | Bengaluru · Pune · Mumbai · India-remote · global remote |
+| 📬 **Best way to reach me** | [Email](mailto:rajupalani811@gmail.com) or [LinkedIn](https://linkedin.com/in/raju-p-08737a2a5) |
+| 👀 **Want proof first?** | Open the [NeuralIQ live app](https://nerual-ai.vercel.app/), then skim the [JobFlow repo](https://github.com/Raju-CS8/JobFlow) |
+
+<details>
+<summary><b>🥚 Click for the easter egg</b></summary>
+<br/>
+
+```python
+candidate = {"name": "Raju P", "tests_passing": 52 + 48}   # NeuralIQ + JobFlow
+
+def hire(c):
+    if c["tests_passing"] == 100:
+        return "Great decision. Let's talk. 🚀"
+    return "Ask me again after I ship more tests."
+
+print(hire(candidate))
 ```
 
-[^1]: 8 Jest suites covering authentication, workspace, retrieval, authorization, payment and usage workflows, including 12 Supertest API tests.
-[^2]: Concurrent-worker tests and GitHub Actions CI. The throughput figure is 200 jobs processed by 3 workers.
+</details>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raju-p-08737a2a5)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajupalani811@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raju-CS8&label=Visitors&color=6366f1&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+
+</div>
